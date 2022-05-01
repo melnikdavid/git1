@@ -4,6 +4,7 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 def double(x):
+    x+=1
     return (x*2)
 
 def print_hi(name):
